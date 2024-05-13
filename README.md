@@ -14,7 +14,7 @@ Latte
 Import code: `#456#eee#eee#dde#26e#ff0#000` 
   <br>
   
-<img src="https://github.com/1Codealot/CS_Timer_Catppuccin_Themes/blob/main/img/Macciato_prev.png" />
+<img src="https://github.com/1Codealot/CS_Timer_Catppuccin_Themes/blob/main/img/Latte_prev.png" />
 </details>
 
 <details>
@@ -25,7 +25,7 @@ Frappé
 Import code: `#cce#223#223#112#8ae#ff0#000` 
   <br>
   
-<img src="https://github.com/1Codealot/CS_Timer_Catppuccin_Themes/blob/main/img/Macciato_prev.png" />
+<img src="https://github.com/1Codealot/CS_Timer_Catppuccin_Themes/blob/main/img/Frappe_prev.png" />
 </details>
 
 <details>
@@ -47,7 +47,7 @@ Mocha
 Import code: `#cde#223#112#112#8bf#ff0#000` 
   <br>
   
-<img src="https://github.com/1Codealot/CS_Timer_Catppuccin_Themes/blob/main/img/Macciato_prev.png" />
+<img src="https://github.com/1Codealot/CS_Timer_Catppuccin_Themes/blob/main/img/Mocha_prev.png" />
 </details>
 
 # Note
