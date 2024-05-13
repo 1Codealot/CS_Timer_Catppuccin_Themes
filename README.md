@@ -7,10 +7,10 @@ Settings > color > select color theme > import / export > paste in below
 <details>
 <summary>
 Macciato
-<summary>
+</summary>
 Import code: `#cce#223#223#112#7cd#ff0#000`
 <img src="../img/Macciato_prev.png" />
-
+</details>
 
 # Note
 you sadly must enter in the cube scramble colours manually (I chose Mocha as it has the best contrast; use peach for orange)
