@@ -4,6 +4,8 @@ Catppuccin themes for cstimer
 # Install
 Settings > color > select color theme > import / export > paste in below
 
+# Flavours
+
 <details>
 <summary>
 Macciato
