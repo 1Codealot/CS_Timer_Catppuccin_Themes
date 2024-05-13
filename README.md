@@ -8,8 +8,11 @@ Settings > color > select color theme > import / export > paste in below
 <summary>
 Macciato
 </summary>
-Import code: `#cce#223#223#112#7cd#ff0#000` <br>
-<img src="../img/Macciato_prev.png" />
+  
+Import code: `#cce#223#223#112#7cd#ff0#000` 
+  <br>
+  
+<img src="https://github.com/1Codealot/CS_Timer_Catppuccin_Themes/blob/main/img/Macciato_prev.png" />
 </details>
 
 # Note
